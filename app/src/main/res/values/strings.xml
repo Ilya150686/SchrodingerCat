@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SchrodingerCat</string>
+    <string name="successful_search">found_cat.jpg</string>
+</resources>
